@@ -31,7 +31,7 @@ body {
   display: flex;
   height: var(--header-height);
   padding: 16px 24px;
-  position: absolute;
+  position: relative;
   transform-origin: top left;
   width: 100%;
   z-index: 1;
@@ -47,7 +47,6 @@ body {
   height: var(--main-height);
   padding: 24px;
   position: relative;
-  top: var(--header-height);
   width: 100%;
 }
 
