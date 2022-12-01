@@ -93,7 +93,7 @@ body {
   z-index: 1;
 }
 
-.footer-heading {
+.footer-inner {
   align-items: baseline;
   display: flex;
   justify-content: space-between;
